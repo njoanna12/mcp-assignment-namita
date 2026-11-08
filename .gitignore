@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+artifacts/
+data_parquet/
+examples/
+predict_option1.py
+predict_option2.py
+Explanations.md
+ASSIGNMENT.md
+requirements.txt
