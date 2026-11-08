@@ -1,3 +1,15 @@
+# Submission: NAMITA MOSES
+
+**My answers and my own question:** [answers.md](answers.md)
+
+Files I added or changed:
+- `mcp_ml_server.py`: added the `predict_both` tool
+- `my_client.py`: client that uses `predict_both` (Part 3)
+- `my_question.py`: client that asks my own question
+- `answers.md`: answers, my question, and screenshots
+
+---
+
 # MCP Machine Learning Agent
 
 This project demonstrates how to deploy Machine Learning models as **real MCP (Model Context Protocol) tools**. You will train Logistic Regression and KNN models, evaluate them, select the best model, generate SHAP explanations, and log results to Parquet — all exposed through an MCP server.
